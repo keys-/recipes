@@ -9,9 +9,9 @@
     <key>Input</key>
     <dict>
         <key>DESTINATION</key>
-        <string>/tmp</string>
+        <string>"/tmp"</string>
         <key>SOURCE</key>
-        <string>/Users/ltcadmin/Library/AutoPkg/Cache/com.googlecode.autopkg.pkg.AdobeReader/Adobe\ Reader\ XI\ Installer.pkg</string>
+        <string>"/Users/ltcadmin/Library/AutoPkg/Cache/com.googlecode.autopkg.pkg.AdobeReader/Adobe\ Reader XI Installer.pkg"</string>
         <key>NAME</key>
         <string>abm-sds</string>
     </dict>
